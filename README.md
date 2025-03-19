@@ -20,10 +20,10 @@ pip install tqdm
 ```
 
 ## Usage
-1. Save the script as `copy_zte_survey.py`.
+1. Save the script as `copy_survey.py`.
 2. Run the script:
 ```bash
-python copy_zte_survey.py
+python copy_survey.py
 ```
 3. The script will search for the files and copy them automatically.
 
